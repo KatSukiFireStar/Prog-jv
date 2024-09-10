@@ -40,6 +40,10 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Allie.cs" />
+        <Compile Include="Boss.cs" />
+        <Compile Include="Ennemi.cs" />
+        <Compile Include="Personnage.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

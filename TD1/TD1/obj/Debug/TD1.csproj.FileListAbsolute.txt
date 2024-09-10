@@ -1,0 +1,6 @@
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\bin\Debug\TD1.exe
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\bin\Debug\TD1.pdb
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\obj\Debug\TD1.csproj.AssemblyReference.cache
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\obj\Debug\TD1.csproj.CoreCompileInputs.cache
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\obj\Debug\TD1.exe
+C:\Users\fgonin1\Documents\GitHub\Prog-jv\TD1\TD1\obj\Debug\TD1.pdb
