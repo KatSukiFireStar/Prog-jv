@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 981a1389d2e2bbd47ac0489e78c24a03
+  productGUID: 447c2d1244542a54c8741f62c6b31f80
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: e946dd9c-857c-41fc-bcf4-1a380931fccb
+  cloudProjectId: 3ecb2dac-a68b-4c74-9c5e-7ed8be9131f6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TD5
+  projectName: TD5 2024-10-08_15-27-08
   organizationId: flavgnnuniv
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
