@@ -522,7 +522,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 834bc99524a174a378e982623582c06d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -596,7 +596,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.25545883
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -1655,8 +1655,8 @@ MonoBehaviour:
   menu: {fileID: 1541974755}
   particleSystem: {fileID: 1322744750}
   jumpParticleSystem: {fileID: 1955456325}
-  jumpSound: {fileID: 0}
-  deathSound: {fileID: 0}
+  jumpSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
+  deathSound: {fileID: 8300000, guid: 4bcde6de2166e41e284ec46d8a01fb90, type: 3}
   animator: {fileID: 0}
   gameOver: 0
 --- !u!82 &1626808356
